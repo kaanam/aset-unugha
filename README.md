@@ -66,7 +66,7 @@ Staff BAUKK
 Email       : staff@mail.com
 Password    : secret
 ```
--  Atau bisa juga bisa menambahkan user role PIMPINAN di dalam Admin sehinggan pimpinan dapat mengatur profile dan melihat dashboard realtime
+-  Atau bisa juga bisa menambahkan user role PIMPINAN di dalam Admin sehingga pimpinan dapat mengatur profile dan melihat dashboard realtime :)
 
 ### Dibuat dengan
 
