@@ -1,5 +1,7 @@
 @extends('layouts.index', ['title' => 'Halaman Data Peran dan Hak Akses', 'page_heading' => 'Daftar Peran dan Hak
 Akses'])
+<!-- icon title manajemen aset unugha-->
+<link rel="icon" href="{{ url('../assets/img/logo-login-unugha.png') }}" type="image/x-icon">
 
 @section('content')
 <div class="card">

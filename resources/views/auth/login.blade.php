@@ -6,6 +6,9 @@
 	<meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" name="viewport">
 	<title>Login &mdash; {{ config('app.name') }}</title>
 
+		<!-- icon title manajemen aset unugha-->
+	<link rel="icon" href="{{ url('../assets/img/logo-login-unugha.png') }}" type="image/x-icon">
+
 	<!-- General CSS Files -->
 	<link rel="stylesheet" href="{{ url('assets/bootstrap/css/bootstrap.min.css') }}">
 	<link rel="stylesheet" href="{{ url('assets/fontawesome/css/all.css') }}">

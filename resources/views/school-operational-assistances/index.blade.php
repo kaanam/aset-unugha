@@ -1,4 +1,6 @@
 @extends('layouts.index', ['title' => 'Halaman Data Sumber', 'page_heading' => 'Daftar Sumber Operasional'])
+<!-- icon title manajemen aset unugha-->
+<link rel="icon" href="{{ url('../assets/img/logo-login-unugha.png') }}" type="image/x-icon">
 
 @section('content')
 <div class="card">
