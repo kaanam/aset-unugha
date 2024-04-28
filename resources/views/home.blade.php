@@ -1,8 +1,11 @@
 @extends('layouts.index', ['title' => 'Dashboard', 'page_heading' => 'Dashboard'])
-<!-- icon title manajemen aset unugha-->
-<link rel="icon" href="{{ url('../assets/img/logo-login-unugha.png') }}" type="image/x-icon">
+
 
 @section('content')
+<!-- icon title manajemen aset unugha-->
+<link rel="icon" href="{{ url('../assets/img/logo-login-unugha.png') }}" type="image/x-icon">
+<!-- icon title manajemen aset unugha-->
+
 <div class="row">
 	<div class="col-lg-3 col-md-6 col-sm-6 col-12">
 		<div class="card card-statistic-1">

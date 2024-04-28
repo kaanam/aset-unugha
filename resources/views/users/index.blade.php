@@ -1,8 +1,10 @@
 @extends('layouts.index', ['title' => 'Halaman Data Pengguna', 'page_heading' => 'Daftar Pengguna'])
-<!-- icon title manajemen aset unugha-->
-<link rel="icon" href="{{ url('../assets/img/logo-login-unugha.png') }}" type="image/x-icon">
 
 @section('content')
+<!-- icon title manajemen aset unugha-->
+<link rel="icon" href="{{ url('../assets/img/logo-login-unugha.png') }}" type="image/x-icon">
+<!-- icon title manajemen aset unugha-->
+
 <div class="row justify-content-center">
 	@foreach ($roles as $role)
 	<div class="col-lg-3 col-md-6 col-sm-6 col-12">

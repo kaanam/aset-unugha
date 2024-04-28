@@ -1,8 +1,10 @@
 @extends('layouts.index', ['title' => 'Halaman Pengaturan Profil', 'page_heading' => 'Pengaturan Profil'])
-<!-- icon title manajemen aset unugha-->
-<link rel="icon" href="{{ url('../assets/img/logo-login-unugha.png') }}" type="image/x-icon">
 
 @section('content')
+<!-- icon title manajemen aset unugha-->
+<link rel="icon" href="{{ url('../assets/img/logo-login-unugha.png') }}" type="image/x-icon">
+<!-- icon title manajemen aset unugha-->
+
 <div class="card">
 	<div class="card-body">
 		<div class="row">

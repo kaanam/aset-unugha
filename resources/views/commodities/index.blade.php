@@ -1,11 +1,12 @@
 @extends('layouts.index', ['title' => 'Halaman Data Barang', 'page_heading' => 'Daftar Barang'])
-<!-- icon title manajemen aset unugha-->
-<link rel="icon" href="{{ url('../assets/img/logo-login-unugha.png') }}" type="image/x-icon">
 
 @section('content')
+<!-- icon title manajemen aset unugha-->
+<link rel="icon" href="{{ url('../assets/img/logo-login-unugha.png') }}" type="image/x-icon">
+<!-- icon title manajemen aset unugha-->
+
 <div class="card">
 	<div class="card-body">
-
 		@include('utilities.alert')
 		<div class="d-flex justify-content-end mb-3">
 			<div class="btn-group">
